@@ -20,3 +20,13 @@ DAY1,克隆Github仓库到本地
    git clone git@github.com:ArthurWng/FlaskWeb_Learning.git
 
 END
+
+
+DAY2,修改README.md，并同步到Github仓库
+
+1、修改README.md
+2、git add README.md
+3、git commit -m "update readme.md"
+4、git push
+
+END
