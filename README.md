@@ -33,8 +33,11 @@ END
 # DAY2，修改README.md，并同步到Github仓库
 
 1、在本地,修改README.md
+
 2、在本地终端输入:git add README.md
+
 3、在本地终端输入:git commit -m "update readme.md"
+
 4、在本地终端输入:git push
 
 END
@@ -42,6 +45,7 @@ END
 
 # DAY3，从Github上拉新的代码或文件
 1、在Github上修改README.md
+
 2、在本地终端输入：git pull
 
 END
